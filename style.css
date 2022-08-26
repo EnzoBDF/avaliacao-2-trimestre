@@ -1,0 +1,79 @@
+
+body{
+    background-color: rgb(219, 216, 216);
+}
+
+
+
+header{
+    padding: 40px;
+    background-color: rgb(67, 179, 179);
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    border-radius: 20px;
+    opacity: 50%;
+    font-family: monospace;
+}
+
+.container{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    padding: 70px;
+    background-color: rgb(119, 209, 209);
+    margin-right: 300px;
+    margin-left: 300px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+table{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    font-family: monospace;
+    font-size: x-large;
+    background-color: aliceblue;
+    
+}
+
+
+input{
+    padding: 15px;
+    font-family: monospace;
+    border-radius: 5px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+
+button{
+    margin: 20px;
+    padding: 10px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: solid 1px;
+    
+}
+
+footer{
+    margin-top: 100px;
+    padding: 40px;
+    background-color: rgb(67, 179, 179);
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    border-radius: 20px;
+    opacity: 50%;
+    font-family: monospace;
+}
+
+button:hover{
+    background-color: peachpuff;
+}
